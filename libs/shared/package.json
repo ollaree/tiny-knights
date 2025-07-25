@@ -1,0 +1,10 @@
+{
+  "name": "@shared",
+  "version": "0.0.1",
+  "dependencies": {
+    "vite-tsconfig-paths": "^4.2.1"
+  },
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "typings": "./index.d.ts"
+}
